@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dmarrufo@ucm.es
+	name = diegomarrufo
